@@ -12,5 +12,5 @@ the program and the GUI will display that message.
 ## Receive Data
 When the program/server recieves the request it will send back a message received message to the client to let the client know that the message was indeed received. 
 
-##UML 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/5daa724c-690d-4cc6-af30-c8d301f3fbc4" id="u63BDHKJWKXN"></iframe></div>
+## UML 
+![Notepad UML](https://user-images.githubusercontent.com/76986911/180920878-87a34c37-cd6d-405c-9127-79a07f894681.png)
