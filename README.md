@@ -13,4 +13,4 @@ the program and the GUI will display that message.
 When the program/server recieves the request it will send back a message received message to the client to let the client know that the message was indeed received. 
 
 ## UML 
-![Notepad UML](https://user-images.githubusercontent.com/76986911/180920878-87a34c37-cd6d-405c-9127-79a07f894681.png)
+![Notepad UML Part 2](https://user-images.githubusercontent.com/76986911/183225598-93874076-5641-4595-86d6-87b5e5aa919a.png)
